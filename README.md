@@ -1,0 +1,1 @@
+capstone wireframe for delete page 
